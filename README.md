@@ -1,3 +1,3 @@
 # Assignement1
-## My Git assignmen
+## My Git assignment
 developer1 branch
