@@ -1,14 +1,7 @@
 # Assignment1
 ## My Git assignment
 
-#### pull request<br>
-![create pull request](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/pull%20request.png)
-![merge pull request](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/commitmerge.png)
-#### Added dependabot<br>
-![dependa bot](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/dependabot.png)
-#### Create a release package<br>
-![release package](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/newrelease.png)
-#### Projects Board for your project.
-![project board](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/project.png)
+Task1 completed<br>
+Task2 completed<br>
+Task3 completed
 
-done all tasks
