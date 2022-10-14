@@ -1,5 +1,4 @@
-# Assignment1
-## My Git assignment
+Task3
 
 #### pull request<br>
 ![create pull request](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/pull%20request.png)
