@@ -1,8 +1,6 @@
 # Assignment1
 ## My Git assignment
 
-developer1 branch<br>
-edit by developer2 <br>
 pull request<br>
 ![create pull request](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/pull%20request.png)
 ![merge pull request](https://github.com/VKvarsha98/Git_Assignment/blob/main/task3/commitmerge.png)
